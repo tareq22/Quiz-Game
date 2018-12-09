@@ -1,5 +1,5 @@
 # Project Title
-University Management
+University Management System
 ## Getting Started
 In this project basically I build up a system in which a user can add and see info's of student, teacher, staff and other officals.
 
@@ -11,3 +11,17 @@ It is a project that was created by Java programming language. As a result to co
 2.Next step was going to download options with configuration.
 3.Then i had completed download Netbeans for based my computer configuration.
 4.Finally i discovered all the installment process and accept license aggrement.
+
+## Usage
+Go to home page
+See the student and waiver information from "student" option
+See the teachers information from "teachers" option
+Search any student by his student id or other from "Student search" option
+Add information after seeing information from "Add" option
+
+## History
+I completed this project when i was in 5th semester. To complete my project i took 2 weeks. I did not need any cost to complete my project.
+
+## Contributing codes
+Any and all contributions to the project are welcome. Certain person Information is used across the world primarily by organizations with a documentation purpose so the instituition can have real impact.
+
