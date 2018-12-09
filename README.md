@@ -23,5 +23,5 @@ Add information after seeing information from "Add" option
 I completed this project when i was in 5th semester. To complete my project i took 2 weeks. I did not need any cost to complete my project.
 
 ## Contributing codes
-Any and all contributions to the project are welcome. Certain person Information is used across the world primarily by organizations with a documentation purpose so the instituition can have real impact.
+Any and all contributions to the project are welcome. Certain intitutes oersonnels Information is used across the university primarily by organizations with a documentation purpose so the instituition can have real impact.
 
